@@ -1,0 +1,112 @@
+  [
+    {
+      "nombre": "John Doe",
+      "edad": 28,
+      "ocupacion": "Estudiante",
+      "profilePicture": "https://i1.sndcdn.com/artworks-gLOzhkPopE3fKUXJ-w3Ldmg-t1080x1080.jpg"
+    },
+    {
+      "nombre": "Victor Calderon",
+      "edad": 22,
+      "ocupacion": "Trabajador",
+      "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAeSKvNLdme1-2nLqMwmMisAxEnYaUGfssyn6nxIhzNzp9n7pp8abPBmc9B2mWqulJf0&usqp=CAU"
+    },
+    {
+      "nombre": "Maria Lopez",
+      "edad": 30,
+      "ocupacion": "Ingeniera",
+      "profilePicture": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "nombre": "Carlos Martinez",
+      "edad": 35,
+      "ocupacion": "Doctor",
+      "profilePicture": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    {
+      "nombre": "Ana Gomez",
+      "edad": 27,
+      "ocupacion": "Diseñadora",
+      "profilePicture": "https://randomuser.me/api/portraits/women/46.jpg"
+    },
+    {
+      "nombre": "Luis Fernandez",
+      "edad": 40,
+      "ocupacion": "Abogado",
+      "profilePicture": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    {
+      "nombre": "Elena Rodriguez",
+      "edad": 32,
+      "ocupacion": "Arquitecta",
+      "profilePicture": "https://randomuser.me/api/portraits/women/48.jpg"
+    }
+    ,
+    {
+        "nombre": "Jorge Ramirez",
+        "edad": 29,
+        "ocupacion": "Programador",
+        "profilePicture": "https://randomuser.me/api/portraits/men/49.jpg"
+    }
+    ,
+    {
+        "nombre": "Laura Sanchez",
+        "edad": 26,
+        "ocupacion": "Enfermera",
+        "profilePicture": "https://randomuser.me/api/portraits/women/50.jpg"
+    },
+    {
+        "nombre": "Pedro Gonzalez",
+        "edad": 33,
+        "ocupacion": "Chef",
+        "profilePicture": "https://randomuser.me/api/portraits/men/51.jpg"
+    },
+    {
+        "nombre": "Sofia Ramirez",
+        "edad": 24,
+        "ocupacion": "Artista",
+        "profilePicture": "https://randomuser.me/api/portraits/women/52.jpg"
+    },
+    {
+        "nombre": "Miguel Torres",
+        "edad": 37,
+        "ocupacion": "Mecanico",
+        "profilePicture": "https://randomuser.me/api/portraits/men/53.jpg"
+    },
+    {
+        "nombre": "Isabel Morales",
+        "edad": 29,
+        "ocupacion": "Periodista",
+        "profilePicture": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    {
+        "nombre": "Ricardo Diaz",
+        "edad": 31,
+        "ocupacion": "Contador",
+        "profilePicture": "https://randomuser.me/api/portraits/men/55.jpg"
+    },
+    {
+        "nombre": "Patricia Vega",
+        "edad": 28,
+        "ocupacion": "Psicologa",
+        "profilePicture": "https://randomuser.me/api/portraits/women/56.jpg"
+    },
+    {
+        "nombre": "Fernando Ruiz",
+        "edad": 34,
+        "ocupacion": "Ingeniero",
+        "profilePicture": "https://randomuser.me/api/portraits/men/57.jpg"
+    },
+    {
+        "nombre": "Gabriela Herrera",
+        "edad": 27,
+        "ocupacion": "Maestra",
+        "profilePicture": "https://randomuser.me/api/portraits/women/58.jpg"
+    },
+    {
+        "nombre": "Juan Perez",
+        "edad": 36,
+        "ocupacion": "Piloto",
+        "profilePicture": "https://randomuser.me/api/portraits/men/59.jpg"
+    }
+  ]
